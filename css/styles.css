@@ -1,0 +1,35 @@
+.dogs p {
+  background-color: lightcoral;
+}
+
+.cats p {
+  background-color: greenyellow;
+}
+
+.birds p {
+  background-color: orange;
+}
+
+.dogs p a {
+  font-weight: bold;
+}
+
+.cats p a {
+  font-weight: bold;
+}
+
+.birds p a {
+  font-weight: bold;
+}
+
+a {
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+body {
+  background-color: skyblue;
+}
