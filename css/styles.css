@@ -1,13 +1,28 @@
 .dogs p {
   background-color: lightcoral;
+  width: 300px;
+  float: left;
+  border: 2px darkblue;
+  margin: 12px;
+  padding: 4px;
 }
 
 .cats p {
   background-color: greenyellow;
+  width: 300px;
+  float: left;
+  border: 2px darkblue;
+  margin: 12px;
+  padding: 4px;
 }
 
 .birds p {
   background-color: orange;
+  width: 300px;
+  float: left;
+  border: 2px darkblue;
+  margin: 12px;
+  padding: 4px;
 }
 
 .dogs p a {
@@ -30,6 +45,6 @@ h2 {
   font-size: 32px;
 }
 
-body {
+body{
   background-color: skyblue;
 }
